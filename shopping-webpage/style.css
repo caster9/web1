@@ -1,0 +1,124 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+
+    font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
+
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(10, 10, 63);
+  color: white;
+  padding: 5px;
+  border-bottom: 1px rgba(255, 255, 255, 0.301) solid;
+  padding-inline: 50px;
+  font-size: 12px;
+}
+.header1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(10, 10, 63);
+  color: white;
+  padding: 5px;
+  padding-inline: 50px;
+}
+.btwn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 15px;
+  width: 500px;
+}
+.header2 {
+  display: flex;
+  padding-inline: 50px;
+  background-color: rgb(10, 10, 63);
+  padding: 10px;
+  padding-inline: 50px;
+}
+.button1 {
+  width: 250px;
+  height: 30px;
+  background-color: orangered;
+  border-color: orangered;
+}
+.input {
+  height: 30px;
+  display: flex;
+  margin-left: 90px;
+  border: 2px orangered solid;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+.input button {
+  width: 100px;
+  background-color: rgb(255, 0, 0);
+  border-color: rgb(255, 0, 0);
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+.input input {
+  width: 400px;
+}
+.top-right {
+  font-size: 13px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.section1-left {
+    font-size: 11px;
+  margin-left: 50px;
+  background-color: whitesmoke;
+  width: 200px;
+  height: 400px;
+  padding: 10px;
+  padding-left: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  box-shadow: 3px 6px rgba(128, 128, 128, 0.342);
+}
+.section1 {
+  display: flex;
+  flex-direction: row;
+}
+.section1-right {
+  margin-left: 50px;
+}
+.section1-right img {
+  height: 500px;
+  width: 1000px;
+}
+.header1 img {
+  width: 40px;
+  height: 40px;
+}
+.nav span {
+  padding-inline: 10px;
+}
+.english img {
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+}
+.english {
+  width: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+    font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
